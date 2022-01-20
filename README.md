@@ -1,7 +1,7 @@
 # Login for applaudo final project
 ## Available Scripts
 
-Make sure to 
+MAKE SURE TO UPDATE YOUR .ENV FILE
 
 In the project directory, you can run:
 
